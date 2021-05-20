@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(83, 81, 81);
+}
+
+
+header{
+    background-image: url("https://cutewallpaper.org/21/dark-wallpaper-1920x1080/Dark-Desktop-Backgrounds-1920x1080-Best-Background-Images-.jpg");
+    color: white;
+    padding-bottom: 60px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+.heading{
+    text-align: center;
+    font-size: 150%;
+}
+
+
+header h2{
+    font-size: 200%;
+    text-align: center;
+}
+
+main{
+    margin-top: 2px;
+    background-image: url("https://cutewallpaper.org/21/dark-wallpaper-1920x1080/Dark-Desktop-Backgrounds-1920x1080-Best-Background-Images-.jpg");
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+.content{
+    font-family: 'Coda', cursive;
+    padding: 10px;
+}
+
+
+.chhead{
+    text-align: center;
+}
+
+
+pre{
+    width: fit-content;
+}
+
+.story{
+    padding: 10px;
+    width: fit-content;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: left;
+}
+
+.img{
+    text-align: center;
+}
